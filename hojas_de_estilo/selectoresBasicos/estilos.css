@@ -1,0 +1,24 @@
+/*Selector basico, por etiquetas*/
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+p{
+    color: green;
+}
+
+/*Escribir nombre de la clase*/
+.texto{
+    color: rebeccapurple;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-style: italic;
+}
+
+#destacado{
+    background-color: aquamarine;
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+}

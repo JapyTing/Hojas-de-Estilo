@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(31, 131, 230);
+    color: rgb(250, 250, 250);
+}
+
+.contenedor{
+    padding: 20px;
+    margin: 0 auto;
+    background-color: rgb(45, 45, 45);
+}
+
+.texto-color{
+    color: aliceblue;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.fondo-solido{
+    background-color: green;
+    color: white;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.fondo-imagen{
+    background-image: url(https://th.bing.com/th/id/OIP.hCFsWwIPwBmnvF0WD9VFgQAAAA?w=313&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(24, 92, 119);
+    font-size: 24px;
+    font-weight: bold;
+}
